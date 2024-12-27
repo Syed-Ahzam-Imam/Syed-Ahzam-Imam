@@ -66,8 +66,10 @@ Here’s what I work with to bring ideas to life:
 ## 💬 Let's Connect!  
 Feel free to reach out for collaborations, projects, or just a friendly chat.  
 <p>
-  <a href="mailto:ahzamimam92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/syed-ahzam-imam-68755722b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  📧 [ahzamimam92@gmail.com](mailto:ahzamimam92@gmail.com)  
+  <br>
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/syed-ahzam-imam-68755722b/)
 </p>
+
 
 
