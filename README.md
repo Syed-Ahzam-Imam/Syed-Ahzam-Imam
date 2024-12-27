@@ -30,6 +30,8 @@ Here’s what I work with to bring ideas to life:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Syed-Ahzam-Imam&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Syed-Ahzam-Imam&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Ahzam-Imam&count_private=true&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 
