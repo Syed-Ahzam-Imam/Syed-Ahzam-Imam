@@ -1,6 +1,10 @@
 # 👋 Hey there! I'm Syed Ahzam Imam
 
-I'm an **AI Solution Engineer** and **Software Developer** with a strong foundation in computer science. I specialize in creating innovative **AI solutions** and **management software** to solve real-world problems.
+As a software engineer with three years of hands-on experience, I am passionate about creating innovative solutions and delivering impactful projects. My expertise spans across modern technologies like Artificial Intelligence (RAG), Next.js, Node.js, and JavaScript.
+
+Throughout my career, I've enjoyed diving into complex problems, building scalable applications, and continuously learning to stay ahead in this fast-evolving industry. Whether it's developing front-end interfaces, crafting robust back-end systems, or exploring AI-powered solutions, I thrive on turning ideas into reality.
+
+I'm always eager to collaborate on challenging projects, exchange knowledge with like-minded professionals, and contribute to meaningful advancements in technology. Let's connect and create something extraordinary together!
 
 ---
 
