@@ -57,8 +57,9 @@ Here’s what I work with to bring ideas to life:
 ---
 
 ## 🌐 Personal Portfolio  
-Explore my projects and professional journey in detail on my portfolio website:  
-[**Portfolio of Syed Ahzam Imam**](https://portfolio-ahzam.netlify.app/)
+🔗 Dive into my projects and professional journey:  
+[**Discover My Work**](https://portfolio-ahzam.netlify.app/)
+
 
 ---
 
