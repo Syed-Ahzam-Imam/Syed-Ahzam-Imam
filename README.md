@@ -36,8 +36,11 @@ Here’s what I work with to bring ideas to life:
 ## 📈 My GitHub Contributions  
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Ahzam-Imam&theme=radical" alt="GitHub Activity Graph" /></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Ahzam-Imam&theme=github" alt="GitHub Activity Graph" />
+  </a>
 </p>
+
 
 
 ---
