@@ -29,9 +29,10 @@ Here’s what I work with to bring ideas to life:
 ## 📈 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Ahzam-Imam&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Syed-Ahzam-Imam&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Syed-Ahzam-Imam&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Ahzam-Imam&count_private=true&theme=radical" alt="GitHub Streak" /></a>
 </p>
+
 
 ---
 
