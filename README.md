@@ -33,7 +33,7 @@ Here’s what I work with to bring ideas to life:
 
 ## 📊 Language Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ahzam-Imam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
