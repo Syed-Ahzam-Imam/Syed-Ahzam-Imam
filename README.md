@@ -68,8 +68,9 @@ Feel free to reach out for collaborations, projects, or just a friendly chat.
 <p>
   📧 [ahzamimam92@gmail.com](mailto:ahzamimam92@gmail.com)  
   <br>
-  🔗 [LinkedIn Profile](https://www.linkedin.com/in/syed-ahzam-imam-68755722b/)
+  <a href="https://www.linkedin.com/in/syed-ahzam-imam-68755722b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
 
 
 
